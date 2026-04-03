@@ -23,4 +23,4 @@ RuneForgeAI, where runes carve wisdom into iron minds. Creating uncensored **Nor
 
 ---
 
-![https://raw.githubusercontent.com/hrabanazviking/MindSpark_ThoughtForge/refs/heads/main/IMG_0407.jpeg](https://raw.githubusercontent.com/hrabanazviking/MindSpark_ThoughtForge/refs/heads/main/IMG_0407.jpeg)
+![https://raw.githubusercontent.com/hrabanazviking/RuneForgeAI/refs/heads/main/IMG_0407.jpeg](https://raw.githubusercontent.com/hrabanazviking/RuneForgeAI/refs/heads/main/IMG_0407.jpeg)

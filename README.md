@@ -1,3 +1,7 @@
+---
+
+![![https://raw.githubusercontent.com/hrabanazviking/hrabanazviking/refs/heads/main/image-23-RuneForgeAI.jpg](https://raw.githubusercontent.com/hrabanazviking/hrabanazviking/refs/heads/main/image-23-RuneForgeAI.jpg)
+
 # RuneForgeAI
 
 **RuneForgeAI** — where runes carve wisdom into iron minds.

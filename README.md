@@ -30,3 +30,12 @@ RuneForgeAI, where runes carve wisdom into iron minds. Creating uncensored **Nor
 ---
 
 ![https://raw.githubusercontent.com/hrabanazviking/RuneForgeAI/refs/heads/main/IMG_0407.jpeg](https://raw.githubusercontent.com/hrabanazviking/RuneForgeAI/refs/heads/main/IMG_0407.jpeg)
+
+---
+
+![https://raw.githubusercontent.com/hrabanazviking/RuneForgeAI/refs/heads/main/HuggingFace_RuneForgeAI1-Sept-20-2026.png](https://raw.githubusercontent.com/hrabanazviking/RuneForgeAI/refs/heads/main/HuggingFace_RuneForgeAI1-Sept-20-2026.png)
+
+> RuneForgeAI @ HuggingFace is my hub for open-source AI models, datasets, experiments, fine-tunes, and research focused on local intelligence, autonomous agents, memory, personality, and mythic-inspired AI systems.
+
+---
+

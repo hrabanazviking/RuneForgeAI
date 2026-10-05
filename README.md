@@ -1,4 +1,3 @@
----
 
 ![https://raw.githubusercontent.com/hrabanazviking/RuneForgeAI/refs/heads/main/image-23-RuneForgeAI.jpg](https://raw.githubusercontent.com/hrabanazviking/RuneForgeAI/refs/heads/main/image-23-RuneForgeAI.jpg)
 
